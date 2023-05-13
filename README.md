@@ -8,10 +8,10 @@ Kết hợp các công cụ và thư viện chính sau để có thể xây dự
 
 ## PROJECT
 #### 1. BotGem (Đang phát triển)
-  * Tìm kiếm đá quý
+* Tìm kiếm và thu thập đá quý
   
 #### 2. BotResources (Hoàn thiện thuật toán)
-* Tìm kiếm tài nguyên
+* Tìm kiếm và thu thập tài nguyên
   
 #### 3. BotTitle (Hoàn thiện thuật toán)
 * Xử lí yêu cầu của người dùng trong Discord
