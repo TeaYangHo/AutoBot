@@ -11,7 +11,7 @@ Kết hợp các công cụ và thư viện chính sau để có thể xây dự
   * Tìm kiếm đá quý
   
 #### 2. BotResources (Hoàn thiện thuật toán)
-Tìm kiếm tài nguyên
+* Tìm kiếm tài nguyên
   
 #### 3. BotTitle (Hoàn thiện thuật toán)
-Xử lí yêu cầu của người dùng trong Discord
+* Xử lí yêu cầu của người dùng trong Discord
