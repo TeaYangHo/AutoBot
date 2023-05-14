@@ -1,5 +1,5 @@
-# AutoBot
-Kết hợp các công cụ và thư viện chính sau để có thể xây dựng một autobot có khả năng xử lý các hành động như con người
+# Bot
+Kết hợp các công cụ và thư viện chính sau để có thể xây dựng một bot có khả năng xử lý các hành động như con người
 
 - ADB: thực hiện các hành động như gửi sự kiện phím, mở ứng dụng, tương tác với giao diện người dùng ...
 - 2Captcha: giải quyết các bài toán captcha trong quá trình hoạt động
