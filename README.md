@@ -1,7 +1,7 @@
 # Bot
-Kết hợp các công cụ và thư viện chính sau để có thể xây dựng một bot có khả năng tự động xử lý các hành động trong trò chơi
+Kết hợp các công cụ và thư viện chính sau để có thể xây dựng một bot có khả năng phân tích và tự động xử lý các thao tác trong trò chơi
 
-- ADB: thực hiện các hành động như gửi sự kiện phím, mở ứng dụng, tương tác với giao diện người dùng ...
+- ADB: thực hiện các hành động như mở ứng dụng, gửi sự kiện phím, tương tác với giao diện người dùng ...
 - 2Captcha: giải quyết các bài toán captcha trong quá trình hoạt động
 - OpenCV: phân tích các trạng thái của trò chơi để xử lý các trường hợp bất thường
 - Discord (Bot Discord): tương tác với người dùng và thực hiện các hành động trong môi trường Discord  
