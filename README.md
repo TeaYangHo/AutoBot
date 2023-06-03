@@ -17,8 +17,7 @@ Kết hợp các công cụ và thư viện chính sau để có thể xây dự
 * Xử lí yêu cầu của người dùng trong Discord
 * [Server Discord (Server Thử Nghiệm)](https://discord.gg/Pa8xq74n)
 
-#### 4. BotData
-* Trích xuất thông tin người chơi
-** ID
-** Tên
-** Các chỉ số cá nhân
+#### 4. BotData - Trích xuất thông tin người chơi
+* ID
+* Tên
+* Các chỉ số cá nhân
