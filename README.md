@@ -19,5 +19,5 @@ Kết hợp các công cụ và thư viện chính sau để có thể xây dự
 * [Server Discord (Server Thử Nghiệm)](https://discord.gg/Pa8xq74n)
 
 #### 4. BotData (Hoàn thiện)
-Lấy dữ liệu và trích xuất thông tin người chơi
+Lấy dữ liệu và trích xuất thông tin người chơi\\
 Thông tin: ["Id", "Name", "Power", "Dead", "KillPoint", "T5", "T4", "T3", "T2", "T1", "Resources"]
