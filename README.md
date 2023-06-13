@@ -5,7 +5,7 @@ Kết hợp các công cụ và thư viện chính sau để có thể xây dự
 - 2Captcha: giải quyết các bài toán captcha trong quá trình hoạt động
 - OpenCV: phân tích các trạng thái của trò chơi để xử lý các trường hợp bất thường
 - Discord (Bot Discord): tương tác với người dùng và thực hiện các hành động trong môi trường Discord
-- Pytesseract: trích xuất văn bản từ hình ảnh
+- Pytesseract: trích xuất thông tin người chơi từ hình ảnh
 
 ## PROJECT
 #### 1. BotGem (Đang thực hiện)
@@ -23,4 +23,4 @@ Kết hợp các công cụ và thư viện chính sau để có thể xây dự
 #### 4. BotData (Hoàn thiện)
 - Lấy dữ liệu và trích xuất thông tin người chơi  
 Thông tin: ["Id", "Name", "Power", "Dead", "KillPoint", "T5", "T4", "T3", "T2", "T1", "Resources"]
-- Tìm kiếm thông tin qua ID
+- Tìm kiếm thông tin người chơi qua ID
