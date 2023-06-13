@@ -13,11 +13,14 @@ Kết hợp các công cụ và thư viện chính sau để có thể xây dự
   
 #### 2. BotResources (Hoàn thiện)
 * Tìm kiếm và thu thập tài nguyên
-  
+
 #### 3. BotTitle (Hoàn thiện)
-* Xử lí yêu cầu của người dùng trong Discord
+* Xử lí yêu cầu phong tước vị của người dùng trong Discord
+* Xử lí theo hàng đợi
+* Lưu thông tin người yêu cầu tước vị
 * [Server Discord (Server Thử Nghiệm)](https://discord.gg/Pa8xq74n)
 
 #### 4. BotData (Hoàn thiện)
 - Lấy dữ liệu và trích xuất thông tin người chơi  
 Thông tin: ["Id", "Name", "Power", "Dead", "KillPoint", "T5", "T4", "T3", "T2", "T1", "Resources"]
+- Tìm kiếm thông tin qua ID
